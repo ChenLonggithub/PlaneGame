@@ -5,6 +5,8 @@ import java.awt.Graphics;
 
 import Untils.Const;
 
+//Shell class,use make shell
+
 public class Shell extends GameObject{
 
 	double degree;
